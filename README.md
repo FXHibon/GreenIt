@@ -1,7 +1,7 @@
 # GreenIt
 Expérimentations/études sur la consommation énergétique d'un RaspBerry
 
-USB ETG (à regarder)
+USB OTG (à regarder)
 
 Problématique:
 
